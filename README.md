@@ -1,2 +1,2 @@
-# 2D-JS-Game
-2D_Breakout_game_pure_JavaScript
+## kvrdoid
+[Guide](https://developer.mozilla.org/ru/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
